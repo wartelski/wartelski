@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm glad to see you on my Github profile ;)<br><br>🔭 I’m currently working on improving my skills as a frontend developer, creating web apps<br>🌱 I’m always in a learner mode, so I continue to learn "dark sides" of JavaScript + libraries, mixing it with cybersecurity practice.<br>💬 I will be happy to hear more information on how it is possible to make web applications more secure! :)<br>
+Hello! I'm glad to see you on my Github profile ;)<br><br>
 
 
 ## 🌐 Socials:
